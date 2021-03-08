@@ -22,7 +22,7 @@
 		span.success {
 			display: block;
 			padding: 5px;
-			background: green;
+			background: grey;
 			color: white;
 		}
 		span.success.hidden {
